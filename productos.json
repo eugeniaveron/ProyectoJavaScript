@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "imagen":"./img/cartera-1-min.jpg",
+        "nombre":"Meravilgia",
+        "color":"Blanco",
+        "precio": 9900,
+        "stock": 30,
+        "cantidad":1
+    },
+
+    {
+        "id":2,
+        "imagen":"./img/cartera-2-min.jpg",
+        "nombre":"Meravilgia",
+        "color":"Suela",
+        "precio": 9900,
+        "stock": 24,
+        "cantidad":1
+    },
+
+    {
+        "id":3,
+        "imagen":"./img/cartera-3-min.jpg",
+        "nombre":"Meravilgia",
+        "color":"Rojo",
+        "precio": 9900,
+        "stock": 5,
+        "cantidad":1
+    },
+
+    {
+        "id":4,
+        "imagen":"./img/cartera-4-min.jpg",
+        "nombre":"Meravilgia",
+        "color":"Negro",
+        "precio": 9900,
+        "stock": 14,
+        "cantidad":1
+    },
+
+    {
+        "id":5,
+        "imagen":"./img/cartera-5-min.jpg",
+        "nombre":"Sofia Grainy",
+        "color":"Rosa",
+        "precio": 12900,
+        "stock": 30,
+        "cantidad":1
+    },
+
+    {
+        "id":6,
+        "imagen":"./img/cartera-6-min.jpg",
+        "nombre":"Sofia Grainy",
+        "color":"Negro",
+        "precio": 12900,
+        "stock": 10,
+        "cantidad":1
+    },
+
+    {
+        "id":7,
+        "imagen":"./img/cartera-7-min.jpg",
+        "nombre":"Sofia Grainy",
+        "color":"Blanco",
+        "precio": 12900,
+        "stock": 12,
+        "cantidad":1
+    },
+
+    {
+        "id":8,
+        "imagen":"./img/cartera-8-min.jpg",
+        "nombre":"Sofia Grainy",
+        "color":"Azul",
+        "precio": 12900,
+        "stock": 10,
+        "cantidad":1
+    },
+    {
+        "id":9,
+        "imagen":"./img/cartera-9-min.jpg",
+        "nombre":"Sofia Grainy",
+        "color":"Combinado",
+        "precio": 12900,
+        "stock": 30,
+        "cantidad":1
+    },
+
+    {
+        "id":10,
+        "imagen":"./img/cartera-10-min.jpg",
+        "nombre":"Miastella",
+        "color":"Suela",
+        "precio": 10900,
+        "stock": 24,
+        "cantidad":1
+    },
+
+    {
+        "id":11,
+        "imagen":"./img/cartera-11-min.jpg",
+        "nombre":"Miastella",
+        "color":"Beige",
+        "precio": 10900,
+        "stock": 5,
+        "cantidad":1
+    },
+
+    {
+        "id":12,
+        "imagen":"./img/cartera-12-min.jpg",
+        "nombre":"Miastella",
+        "color":"Negro",
+        "precio": 10900,
+        "stock": 14,
+        "cantidad":1
+    },
+
+    {
+        "id":13,
+        "imagen":"./img/cartera-13-min.jpg",
+        "nombre":"Margarita",
+        "color":"Verde",
+        "precio": 10900,
+        "stock": 8,
+        "cantidad":1
+    },
+
+    {
+        "id":14,
+        "imagen":"./img/cartera-14-min.jpg",
+        "nombre":"Margarita",
+        "color":"Suela",
+        "precio": 10900,
+        "stock": 18,
+        "cantidad":1
+    },
+
+    {
+        "id":15,
+        "imagen":"./img/cartera-15-min.jpg",
+        "nombre":"Margarita",
+        "color":"Blanco",
+        "precio": 10900,
+        "stock": 20,
+        "cantidad":1
+    }
+
+]
